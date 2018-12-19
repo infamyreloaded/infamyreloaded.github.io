@@ -1,4 +1,4 @@
-# totalwarcraft.github.io
+# infamyreloaded.github.io
 
-Website for our modpack TotalWarCraft
+Website for our modpack InfamyReloaded
 https://www.technicpack.net/modpack/totalwarcraft-factions.1330533
